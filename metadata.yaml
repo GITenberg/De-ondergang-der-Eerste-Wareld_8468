@@ -1,0 +1,24 @@
+_repo: De-ondergang-der-Eerste-Wareld_8468
+creator:
+  author:
+    agent_name: Bilderdijk, Willem
+    alias: Bilderdyk, Willem
+    birthdate: 1756
+    deathdate: 1831
+    gutenberg_agent_id: '2764'
+    url: http://www.gutenberg.org/2009/agents/2764
+    wikipedia: http://en.wikipedia.org/wiki/Willem_Bilderdijk
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8468'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch poetry'
+- !lcc 'PT'
+title: De ondergang der Eerste Wareld
+url: http://www.gutenberg.org/ebooks/8468
